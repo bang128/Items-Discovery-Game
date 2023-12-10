@@ -1,0 +1,10 @@
+8 8
+crystal o o special o o bomb crystal
+bomb o o o o o o riddle
+o storage o o o o o storage
+storage o monster player o o special o
+o special o o o storage o o 
+storage o riddle o o crystal o o
+bomb o o o storage o o riddle
+riddle crystal o storage o o monster riddle
+
